@@ -128,5 +128,9 @@ workflow-controller-78dbff5b5d-7wnlq     1/1     Running     0          11m
 ```
 
 
+## deploy nginx demo app
+```bash
+kubectl apply -f https://k8s.io/examples/application/deployment.yaml
 
+```
 
